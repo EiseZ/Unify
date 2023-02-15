@@ -1,3 +1,12 @@
+#
+# Project name
+# Project desc
+#
+# Eise Zimmerman
+#
+# Licensed under the MIT license (https://opensource.org/licenses/MIT)
+#
+
 PROJNAME=project-name
 CC=gcc
 CFLAGS=-std=c89 -Wall -Wextra -I$(INC)
